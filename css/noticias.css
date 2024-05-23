@@ -1,0 +1,33 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  footer{
+    clear: both; /* Evita que el footer se superponga a los elementos flotantes */
+    height: 10%;
+    color: #FFF;
+    background-color: #000;
+    text-align: center;
+    line-height: 50px;
+    margin-top: auto;
+  } 
+  
